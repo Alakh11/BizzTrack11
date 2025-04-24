@@ -14,8 +14,13 @@
 
     /* Linting */
     "strict": true,
+<<<<<<< HEAD
     "noUnusedLocals": false,
     "noUnusedParameters": false,
+=======
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+>>>>>>> bizztrack/main
     "noFallthroughCasesInSwitch": true
   },
   "include": ["vite.config.ts"]

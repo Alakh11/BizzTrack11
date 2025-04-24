@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to our BizzTrack project
 
 ## Project info
@@ -55,3 +56,6 @@ This project is built with:
 - Tailwind CSS
 
 
+=======
+# Bizztrack-New
+>>>>>>> bizztrack/main

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 @tailwind base;
 @tailwind components;
@@ -107,3 +108,8 @@
     @apply bg-muted text-foreground;
   }
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> bizztrack/main

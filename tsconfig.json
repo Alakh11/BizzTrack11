@@ -3,6 +3,7 @@
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
+<<<<<<< HEAD
   ],
   "compilerOptions": {
     "baseUrl": ".",
@@ -16,4 +17,7 @@
     "noUnusedLocals": false,
     "strictNullChecks": false
   }
+=======
+  ]
+>>>>>>> bizztrack/main
 }
